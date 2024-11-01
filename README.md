@@ -14,3 +14,6 @@ Desenvolvedor web full stack iniciante com forte paixão por criar interfaces in
 ![Phael8719 GitHub stats](https://github-readme-stats.vercel.app/api?username=Phael8719&show_icons=true&theme=radical)
 
 "Sou movido por uma paixão intensa por tecnologia e desenvolvimento. Acredito no poder transformador das soluções digitais e na capacidade delas de melhorar a vida das pessoas. Esse entusiasmo me motiva a sempre buscar aprender novas linguagens e técnicas, explorando a criatividade e inovação em cada projeto."
+
+  <img src="https://media1.tenor.com/m/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif"> 
+  
